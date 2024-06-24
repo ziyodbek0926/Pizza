@@ -1,4 +1,4 @@
-# Tirikchilik.uz
+# Pizza
 
 this is a sample bot for practice.
 
